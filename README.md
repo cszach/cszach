@@ -29,9 +29,10 @@ I'm on [GitHub][github], [Dribbble][dribbble], [Unsplash][unsplash], and
 - Markdown
 - ...and more!
 
-I use Atom :atom: and push my code to GitHub :octocat: and not elsewhere.
-Mozilla Firefox is how I browse the Web. I use ~~Arch btw~~ Fedora because it is
-super duper cool :sunglasses:.
+I use [Atom](https://atom.io/) :atom: and push my code to GitHub :octocat: (not
+elsewhere). [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) is how
+I browse the Web. I use ~~Arch btw~~ [Fedora](https://getfedora.org/) because it
+is super duper cool :sunglasses:.
 
 <details>
 
@@ -58,11 +59,12 @@ Algebra, JavaScript, Liquid, Markdown, and love involved. :heart: Visit
 	<img align="left" src="https://raw.githubusercontent.com/you-create/you-create/master/img/thumbnails/sketches.jpg">
 </a>
 
-Sketches made for fun by me, in the third dimension, can be seen via a flat
+Sketches made for fun by me. Exist in the third dimension, can be seen via a flat
 screen. :smiley: These are mostly done using three.js, but models made in 3D
-modeling programs (like Microsoft Paint 3D) are also there. I'm looking forward
-to making the content more diverse, such as adding VR content using A-Frame or
-pseudo-3D illustrations using Zdog! See my sketches at
+modeling programs (like Microsoft Paint 3D) are also there. It's like a showcase
+of things I've made with three.js + what I've modeled with desktop programs. I'm
+looking forward to making the content more diverse, such as adding VR content
+using A-Frame or pseudo-3D illustrations using Zdog! See my sketches at
 <https://you-create.github.io/three.js-sketches>. Still gradually growing in
 numbers! I hope I will be able to make a new one every week.
 
