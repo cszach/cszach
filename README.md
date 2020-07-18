@@ -42,7 +42,7 @@ super duper cool :sunglasses:.
 ### lnagb.js
 
 <a href="https://github.com/vecma-org/lnagb.js">
-	<img align="left" src="./img/thumbnails/lnagbjs.jpg">
+	<img align="left" src="https://raw.githubusercontent.com/you-create/you-create/master/img/thumbnails/lnagbjs.jpg">
 </a>
 
 A Linear Algebra JavaScript library. Comes with rich APIs, handy & diverse
@@ -55,7 +55,7 @@ Algebra, JavaScript, Liquid, Markdown, and love involved. :heart: Visit
 ### 3D sketches
 
 <a href="https://github.com/you-create/three.js-sketches">
-	<img align="left" src="./img/thumbnails/sketches.jpg">
+	<img align="left" src="https://raw.githubusercontent.com/you-create/you-create/master/img/thumbnails/sketches.jpg">
 </a>
 
 Sketches made for fun by me, in the third dimension, can be seen via a flat
