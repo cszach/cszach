@@ -84,7 +84,7 @@ particularly so excited about this one, can't wait to see how it will turn out!
 The website will include links to my online profiles, my art, my Markdown
 writings, my sketches, and my blog. :wink:
 
-## What I want to learn in the future
+## What I want to learn or improve in the future
 
 _**Everything**_ OMG :sob:
 
