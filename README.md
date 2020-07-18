@@ -10,9 +10,16 @@ integrating 3D computer graphics, as well as to create beautiful 3D art.
 :rainbow: I also love the Web and am trying to combine 3D content with Web
 technologies. :technologist:
 
-I'm on GitHub, Dribble, Unsplash, and Medium. Just search for _you\_create_. Oh
-and also [OpenProcessing](https://www.openprocessing.org/user/206009) and
-[Instagram](https://www.instagram.com/you_create.designs/).
+I'm on [GitHub][github], [Dribbble][dribbble], [Unsplash][unsplash], and
+[Medium][medium]. Oh and also [OpenProcessing][openprocessing] and
+[Instagram][instagram].
+
+[github]: https://github.com/you-create
+[dribbble]: https://dribbble.com/you_create
+[unsplash]: https://unsplash.com/@you_create
+[medium]: https://medium.com/@you_create
+[openprocessing]: https://www.openprocessing.org/user/206009
+[instagram]: https://www.instagram.com/you_create.designs
 
 ## Things I deal with on the computer
 
@@ -41,7 +48,8 @@ super duper cool :sunglasses:.
 A Linear Algebra JavaScript library. Comes with rich APIs, handy & diverse
 modules, detailed documentation, linear algebra resources, references, and more! 
 Reduce matrices, solve equations, draw vectors, make calculations, integrate
-with three.js, etc. Made for students, by a student. 100% love. :heart: Visit
+with three.js, etc. Made for students, by a student. Languages of Linear
+Algebra, JavaScript, Liquid, Markdown, and love involved. :heart: Visit
 <https://vecma-org.github.io/lnagb.js> if you are interested!
 
 ### 3D sketches
