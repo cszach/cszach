@@ -72,8 +72,10 @@ numbers! I hope I will be able to make a new one every week.
 
 A small but nice project that aims to help developers write the best README
 documents in the world, because why not? :wink: READMEs are important you know,
-that's why Readme Driven Development is a thing. There are still a lot to do
-with the project, and I hope exciting things will come in the near future.
+that's why [Readme Driven Development][rdd] is a thing. There are still a lot to
+do with the project, and I hope exciting things will come in the near future.
+
+[rdd]: https://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 
 ### Personal website
 
