@@ -1,5 +1,9 @@
 # Hi there :wave:
 
+<a href="https://www.fsf.org">
+	<img align="right" src="https://raw.githubusercontent.com/you-create/you-create/master/img/i-support-fs_gray-bg.png">
+</a>
+
 Nice to meet you. My name is Duong (not Nguyen). I am a student. Computer
 programming is one of my biggest hobbies (the others being designing
 :triangular_ruler:, thinking :thinking:, and dancing :cartwheeling:).
@@ -97,6 +101,7 @@ focus on...
 - English :trollface:
 - _probably_ one more foreign language
 - Soft skills :bowtie:
+- UI/UX design
 - ...and many more of course
 
 </details>
