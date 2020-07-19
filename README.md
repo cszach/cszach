@@ -17,32 +17,35 @@ technologies. :technologist:
 Oh, [I support free software][support].
 
 <a href="https://github.com/you-create">
-	<img height="32" width="32"
+	<img width="32" align="left"
 		 alt="My GitHub profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 <a href="https://dribbble.com/you_create">
-	<img height="32" width="32"
+	<img width="32" align="left"
 		 alt="My Dribbble profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg">
 </a>
 <a href="https://unsplash.com/@you_create">
-	<img height="32" width="32"
+	<img width="32" align="left"
 		 alt="My Unsplash profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg">
 </a>
 <a href="https://medium.com/@you_create">
-	<img height="32" width="32"
+	<img width="32" align="left"
 		 alt="My Medium profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
 </a>
 <a href="https://www.instagram.com/you_create.designs">
-	<img height="32" width="32"
+	<img width="32" align="left"
 		 alt="My Instagram profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-
-[_I'm on OpenProcessing, too._][openprocessing]
+<a href="https://www.openprocessing.org/user/206009">
+	<img width="32" align="left"
+		 alt="My OpenProcessing profile"
+		 src="https://www.openprocessing.org/assets/img/logo/logo_36x30_dark@2x.png">
+</a>
 
 [support]: https://gist.github.com/you-create/12acdc03f08646c3deae88e59fae15b2
 
