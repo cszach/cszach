@@ -47,6 +47,8 @@ Oh, [I support free software][support].
 		 src="https://www.openprocessing.org/assets/img/logo/logo_36x30_dark@2x.png">
 </a>
 
+<br/>
+
 [support]: https://gist.github.com/you-create/12acdc03f08646c3deae88e59fae15b2
 
 [github]: https://github.com/you-create
