@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 <a href="https://www.fsf.org">
-	<img align="right" src="https://raw.githubusercontent.com/you-create/you-create/master/img/i-support-fs_gray-bg.png">
+	<img align="right" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png">
 </a>
 
 Nice to meet you. My name is Duong (not Nguyen). I am a student. Computer
@@ -14,9 +14,37 @@ integrating 3D computer graphics, as well as to create beautiful 3D art.
 :rainbow: I also love the Web and am trying to combine 3D content with Web
 technologies. :technologist:
 
-I'm on [GitHub][github], [Dribbble][dribbble], [Unsplash][unsplash], and
-[Medium][medium]. Oh and also [OpenProcessing][openprocessing] and
-[Instagram][instagram].
+Oh, [I support free software][support].
+
+<a href="https://github.com/you-create">
+	<img height="32" width="32"
+		 alt="My GitHub profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+</a>
+<a href="https://dribbble.com/you_create">
+	<img height="32" width="32"
+		 alt="My Dribbble profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg">
+</a>
+<a href="https://unsplash.com/@you_create">
+	<img height="32" width="32"
+		 alt="My Unsplash profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg">
+</a>
+<a href="https://medium.com/@you_create">
+	<img height="32" width="32"
+		 alt="My Medium profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
+</a>
+<a href="https://www.instagram.com/you_create.designs">
+	<img height="32" width="32"
+		 alt="My Instagram profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+
+[_I'm on OpenProcessing, too._][openprocessing]
+
+[support]: https://gist.github.com/you-create/12acdc03f08646c3deae88e59fae15b2
 
 [github]: https://github.com/you-create
 [dribbble]: https://dribbble.com/you_create
