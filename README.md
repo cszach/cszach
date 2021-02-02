@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 <a href="https://www.gnu.org">
-	<img width=280 align="right" src="img/i-support-fs_gray-bg.png">
+	<img width=250 align="right" src="img/i-support-fs_gray-bg.png">
 </a>
 
 :sunglasses: I'm Duong (not Nguyen), a high school senior  
