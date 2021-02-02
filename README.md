@@ -1,7 +1,7 @@
 # Hi there :wave:
 
 <a href="https://www.gnu.org">
-	<img width=250 align="right" src="img/i-support-fs_gray-bg.png">
+	<img width=260 align="right" src="img/i-support-fs_gray-bg.png">
 </a>
 
 :sunglasses: I'm Duong (not Nguyen), a high school senior  
@@ -31,8 +31,10 @@ reselling Toblerone
 	<img alt="My Medium profile" src="img/icons/medium.png">
 </a>
 
+<br><br>
+
 <details>
-	<summary>I'm Feeling Lucky</summary>
+	<summary>I'm Feeling Lucky (click)</summary>
 	Meet Beefy Miracle! <img src="img/beefy_universe.jpg">
 </details>
 
