@@ -31,7 +31,7 @@ reselling Toblerone
 	<img alt="My Medium profile" src="img/icons/medium.png">
 </a>
 
-<br>
+<p></p>
 
 <details>
 	<summary>I'm Feeling Lucky (click)</summary>
