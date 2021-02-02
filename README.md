@@ -31,7 +31,10 @@ reselling Toblerone
 	<img alt="My Medium profile" src="img/icons/medium.png">
 </a>
 
-<br/><br/>
+<details>
+	<summary>I'm Feeling Lucky</summary>
+	Meet Beefy Miracle! <img src="img/beefy_universe.jpg">
+</details>
 
 [github]: https://github.com/you-create
 [dribbble]: https://dribbble.com/you_create
