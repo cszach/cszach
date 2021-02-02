@@ -16,19 +16,19 @@ experience
 reselling Toblerone
 
 <a href="https://github.com/you-create">
-	<img align="left" alt="My GitHub profile" src="img/icons/github.png">
+	<img alt="My GitHub profile" src="img/icons/github.png">
 </a>
 <a href="https://www.instagram.com/thechonkypenguin">
-	<img align="left" alt="My Instagram profile" src="img/icons/instagram.png">
+	<img alt="My Instagram profile" src="img/icons/instagram.png">
 </a>
 <a href="https://unsplash.com/@you_create">
-	<img align="left" alt="My Unsplash profile" src="img/icons/unsplash.png">
+	<img alt="My Unsplash profile" src="img/icons/unsplash.png">
 </a>
 <a href="https://dribbble.com/you_create">
-	<img align="left" alt="My Dribbble profile" src="img/icons/dribbble.png">
+	<img alt="My Dribbble profile" src="img/icons/dribbble.png">
 </a>
 <a href="https://medium.com/@you_create">
-	<img align="left" alt="My Medium profile" src="img/icons/medium.png">
+	<img alt="My Medium profile" src="img/icons/medium.png">
 </a>
 
 <br/><br/>
