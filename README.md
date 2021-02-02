@@ -11,6 +11,7 @@
 experience  
 :man_technologist: I'm currently working with three.js and Jekyll  
 :atom: I use Atom, among with Firefox, on Fedora GNU/Linux  
+:gift_heart: I'm a free/open-source software evangelist    
 :shipit:  Other things I do: breakdancing, contemplating :thinking:, and
 reselling Toblerone
 
