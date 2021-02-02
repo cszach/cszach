@@ -35,7 +35,8 @@ reselling Toblerone
 
 <details>
 	<summary>I'm Feeling Lucky (click)</summary>
-	<b><i>Meet Beefy Miracle!</i></b> <img src="img/beefy_universe.jpg">
+	<b><i>Meet Beefy Miracle!</i></b> :rainbow:
+	<img src="img/beefy_universe.jpg">
 </details>
 
 [github]: https://github.com/you-create
