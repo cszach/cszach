@@ -1,1 +1,67 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><script xmlns=""/><title>Dribbble icon</title><path d="M12 24C5.385 24 0 18.615 0 12S5.385 0 12 0s12 5.385 12 12-5.385 12-12 12zm10.12-10.358c-.35-.11-3.17-.953-6.384-.438 1.34 3.684 1.887 6.684 1.992 7.308 2.3-1.555 3.936-4.02 4.395-6.87zm-6.115 7.808c-.153-.9-.75-4.032-2.19-7.77l-.066.02c-5.79 2.015-7.86 6.025-8.04 6.4 1.73 1.358 3.92 2.166 6.29 2.166 1.42 0 2.77-.29 4-.814zm-11.62-2.58c.232-.4 3.045-5.055 8.332-6.765.135-.045.27-.084.405-.12-.26-.585-.54-1.167-.832-1.74C7.17 11.775 2.206 11.71 1.756 11.7l-.004.312c0 2.633.998 5.037 2.634 6.855zm-2.42-8.955c.46.008 4.683.026 9.477-1.248-1.698-3.018-3.53-5.558-3.8-5.928-2.868 1.35-5.01 3.99-5.676 7.17zM9.6 2.052c.282.38 2.145 2.914 3.822 6 3.645-1.365 5.19-3.44 5.373-3.702-1.81-1.61-4.19-2.586-6.795-2.586-.825 0-1.63.1-2.4.285zm10.335 3.483c-.218.29-1.935 2.493-5.724 4.04.24.49.47.985.68 1.486.08.18.15.36.22.53 3.41-.43 6.8.26 7.14.33-.02-2.42-.88-4.64-2.31-6.38z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     role="img"
+     viewBox="0 0 24 24"
+     version="1.1"
+     id="svg6"
+     sodipodi:docname="dribbble.svg"
+     inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+     inkscape:export-filename="/home/you_create/Code/Projects/you-create/you-create/img/icons/dribbble.png"
+     inkscape:export-xdpi="128"
+     inkscape:export-ydpi="128">
+    <svg:metadata
+         id="metadata12">
+        <rdf:RDF>
+            <cc:Work
+                 rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type
+                     rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+                <dc:title>Dribbble icon</dc:title>
+            </cc:Work>
+        </rdf:RDF>
+    </svg:metadata>
+    <svg:defs
+         id="defs10" />
+    <sodipodi:namedview
+         pagecolor="#ffffff"
+         bordercolor="#666666"
+         borderopacity="1"
+         objecttolerance="10"
+         gridtolerance="10"
+         guidetolerance="10"
+         inkscape:pageopacity="0"
+         inkscape:pageshadow="2"
+         inkscape:window-width="1920"
+         inkscape:window-height="1016"
+         id="namedview8"
+         showgrid="false"
+         inkscape:zoom="25.30853"
+         inkscape:cx="10.892556"
+         inkscape:cy="15.460423"
+         inkscape:window-x="0"
+         inkscape:window-y="27"
+         inkscape:window-maximized="1"
+         inkscape:current-layer="svg6"
+         inkscape:document-rotation="0" />
+    <script />
+    <svg:title
+         id="title2">Dribbble icon</svg:title>
+    <svg:rect
+         style="fill:#ea4c89;stroke-width:1;stop-color:#000000;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1"
+         id="rect8"
+         width="24"
+         height="24"
+         x="0"
+         y="0" />
+    <svg:path
+         d="M 12,21 C 7.03875,21 3,16.96125 3,12 3,7.03875 7.03875,3 12,3 c 4.96125,0 9,4.03875 9,9 0,4.96125 -4.03875,9 -9,9 z m 7.59,-7.7685 c -0.2625,-0.0825 -2.3775,-0.71475 -4.788,-0.3285 1.005,2.763 1.41525,5.013 1.494,5.481 1.725,-1.16625 2.952,-3.015 3.29625,-5.1525 z m -4.58625,5.856 c -0.11475,-0.675 -0.5625,-3.024 -1.6425,-5.8275 l -0.0495,0.015 c -4.3425,1.51125 -5.895,4.51875 -6.03,4.8 1.2975,1.0185 2.94,1.6245 4.7175,1.6245 1.065,0 2.0775,-0.2175 3,-0.6105 z m -8.715,-1.935 c 0.174,-0.3 2.28375,-3.79125 6.249,-5.07375 0.10125,-0.03375 0.2025,-0.063 0.30375,-0.09 -0.195,-0.43875 -0.405,-0.87525 -0.624,-1.305 -3.84,1.1475 -7.563,1.09875 -7.9005,1.09125 l -0.003,0.234 c 0,1.97475 0.7485,3.77775 1.9755,5.14125 z m -1.815,-6.71625 c 0.345,0.006 3.51225,0.0195 7.10775,-0.936 -1.2735,-2.2635 -2.6475,-4.1685 -2.85,-4.446 -2.151,1.0125 -3.7575,2.9925 -4.257,5.3775 z M 10.2,4.539 c 0.2115,0.285 1.60875,2.1855 2.8665,4.5 C 15.80025,8.01525 16.959,6.459 17.09625,6.2625 15.73875,5.055 13.95375,4.323 12,4.323 c -0.61875,0 -1.2225,0.075 -1.8,0.21375 z m 7.75125,2.61225 c -0.1635,0.2175 -1.45125,1.86975 -4.293,3.03 0.18,0.3675 0.3525,0.73875 0.51,1.1145 0.06,0.135 0.1125,0.27 0.165,0.3975 2.5575,-0.3225 5.1,0.195 5.355,0.2475 -0.015,-1.815 -0.66,-3.48 -1.7325,-4.785 z"
+         id="path4"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.75" />
+</svg:svg>
