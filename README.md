@@ -4,14 +4,14 @@
 	<img width=280 align="right" src="img/i-support-fs_gray-bg.png">
 </a>
 
-:sunglasses: I'm Duong (not Nguyen), a high school senior  
-:desktop_computer: I'm aspiring to a career in Graphics and HCI research  
-:triangular_ruler: I love digital media design  
-:night_with_stars: I want to create mesmerizing 3D digital art and immersive
-experience  
-:man_technologist: I'm currently working with three.js and Jekyll  
+:sunglasses: I'm **Duong** (not Nguyen), a high school senior  
+:desktop_computer: I'm aspiring to a career in **Graphics and HCI research**  
+:triangular_ruler: I love **digital media design**  
+:night_with_stars: I want to create **mesmerizing 3D digital art and immersive
+experience**  
+:man_technologist: I'm currently working with **three.js and Jekyll**  
 :atom: I use Atom, among with Firefox, on Fedora GNU/Linux  
-:gift_heart: I'm a free/open-source software evangelist    
+:gift_heart: I'm a **free/open-source software evangelist**  
 :shipit:  Other things I do: breakdancing, contemplating :thinking:, and
 reselling Toblerone
 
@@ -35,7 +35,7 @@ reselling Toblerone
 
 <details>
 	<summary>I'm Feeling Lucky (click)</summary>
-	Meet Beefy Miracle! <img src="img/beefy_universe.jpg">
+	<b><i>Meet Beefy Miracle!</i></b> <img src="img/beefy_universe.jpg">
 </details>
 
 [github]: https://github.com/you-create
