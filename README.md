@@ -4,7 +4,7 @@
 	<img align="right" src="https://static.fsf.org/nosvn/images/badges/i-support-fs_gray-bg.png">
 </a>
 
-:sunglasses: My name is Duong (not Nguyen)  
+:sunglasses: I'm Duong (not Nguyen), a high school senior  
 :desktop_computer: I'm aspiring to a career in Graphics and HCI research  
 :triangular_ruler: I love digital media design  
 :night_with_stars: I want to create mesmerizing 3D digital art and immersive
