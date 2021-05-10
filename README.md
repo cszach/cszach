@@ -1,26 +1,30 @@
 # Hi there :wave:
 
 <a href="https://www.gnu.org">
-	<img width=280 align="right" src="img/i-support-fs_gray-bg.png">
+	<img width=320 align="right" src="img/i-support-fs_gray-bg.png">
 </a>
 
-:sunglasses: I'm **Duong** & I'm attending the University of Rochester this fall.  
+:sunglasses: I'm **Duong**, a high school senior.  
+:classical_building: I'm attending the [University of Rochester][1] this fall.  
 :desktop_computer: I'm aspiring to a career in **Graphics and HCI research**.  
 :triangular_ruler: I love **digital media design**.  
 :night_with_stars: I want to create **3D digital art and immersive experience**.  
-:briefcase: I use [Atom][1] :atom: & [Firefox][2] on [Fedora GNU/Linux][3].  
-:technologist: I'm working on [**lnagb.js**][4], a JavaScript linear algebra library.  
-:gift_heart: I'm a [**free software & public domain evangelist**][5].  
+:briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
+:technologist: I'm working on [**lnagb.js**][5], a JavaScript linear algebra library.  
+:gift_heart: I'm a [**free software & public domain evangelist**][6].  
 :shipit: Other things I do: breakdancing :cartwheeling: and philosophy :thinking:.
 
 :sparkles: My homepage: **<https://you-create.github.io>**  
-:sparkles: Support Richard Stallman: **<https://stallmansupport.org>**
+:sparkles: Support Richard Stallman: **<https://stallmansupport.org>**  
+:sparkles: The GNU Project: **<https://gnu.org>**  
+:sparkles: Free Software Foundation: **<https://fsf.org>**
 
-[1]: https://atom.io
-[2]: https://www.mozilla.org/en-US/firefox/new
-[3]: https://getfedora.org
-[4]: https://vecma-org.github.io/lnagb.js
-[5]: https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain
+[1]: https://rochester.edu
+[2]: https://atom.io
+[3]: https://www.mozilla.org/en-US/firefox/new
+[4]: https://getfedora.org
+[5]: https://vecma-org.github.io/lnagb.js
+[6]: https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain
 
 <a href="https://github.com/you-create">
 	<img alt="My GitHub profile" src="img/icons/github.png">
