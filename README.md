@@ -4,21 +4,22 @@
 	<img width=280 align="right" src="img/i-support-fs_gray-bg.png">
 </a>
 
-:sunglasses: I'm **Duong** (not Nguyen), a high school senior.  
+:sunglasses: I'm **Duong** & I'm attending the University of Rochester this fall.  
 :desktop_computer: I'm aspiring to a career in **Graphics and HCI research**.  
 :triangular_ruler: I love **digital media design**.  
-:night_with_stars: I want to create **mesmerizing 3D digital art and immersive
-experience**.  
-:man_technologist: I'm currently working with **[three.js][1] and Jekyll**.  
-:briefcase: I use [Atom][2] :atom: & [Firefox][3] on [Fedora GNU/Linux][4].  
+:night_with_stars: I want to create **3D digital art and immersive experience**.  
+:briefcase: I use [Atom][1] :atom: & [Firefox][2] on [Fedora GNU/Linux][3].  
+:technologist: I'm working on [**lnagb.js**][4], a JavaScript linear algebra library.  
 :gift_heart: I'm a [**free software & public domain evangelist**][5].  
-:shipit: Other things I do: breakdancing, contemplating :thinking:, and
-reselling Toblerone.
+:shipit: Other things I do: breakdancing :cartwheeling: and philosophy :thinking:.
 
-[1]: https://you-create.github.io/three.js-sketches
-[2]: https://atom.io
-[3]: https://www.mozilla.org/en-US/firefox/new
-[4]: https://getfedora.org
+:sparkles: My homepage: **<https://you-create.github.io>**  
+:sparkles: Support Richard Stallman: **<https://stallmansupport.org>**
+
+[1]: https://atom.io
+[2]: https://www.mozilla.org/en-US/firefox/new
+[3]: https://getfedora.org
+[4]: https://vecma-org.github.io/lnagb.js
 [5]: https://github.com/you-create/reveal-init/wiki/Supporting-the-Public-Domain
 
 <a href="https://github.com/you-create">
