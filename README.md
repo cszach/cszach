@@ -1,7 +1,7 @@
 # Hi, I'm Duong :wave:
 
 <a href="https://www.gnu.org">
-	<img width=350 align="right" src="img/i-support-fs_gray-bg.png">
+	<img width=300 align="right" src="img/i-support-fs_gray-bg.png">
 </a>
 
 Aspiring computer graphics scientist and digital media designer from Vietnam.
