@@ -1,17 +1,17 @@
 Hi, I'm Novak :wave:
 ====================
 
-<img align="right" src="img/scene.png">
+<img align="right" src="scene.png">
 
-Aspiring computer graphics scientist and digital media designer.
+Free software advocate, digital media designer, writer, and aspiring computer
+graphics scientist.
 
 Work
 ----
 
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
 :shipit: [**42tm**][42tm] founder & free software engineer  
-:shipit: Solo free software developer & advocate  
-:shipit: University of Rochester '25
+:shipit: **University of Rochester** Computer Science '25
 
 [cgcentral]: https://cgcentral.github.io
 [42tm]:      https://github.com/42tm
