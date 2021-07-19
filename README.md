@@ -1,38 +1,46 @@
-# Hi, I'm Novak :wave:
+Hi, I'm Novak :wave:
+====================
 
-<a href="https://www.gnu.org">
-	<img width=350 align="right" src="img/i-support-fs_gray-bg.png">
-</a>
+<img align="right" src="img/scene.png">
 
-Aspiring computer graphics scientist and digital media designer from Vietnam.
+Aspiring computer graphics scientist and digital media designer.
 
-:point_right: **<https://novakcgx.github.io>** :point_left:
-
-:warning: **IMPORTANT!** In light of false accusations made against Richard
-Stallman since 2019, please visit <https://stallmansupport.org> to inform
-yourself and sign [the support letter](https://rms-support-letter.github.io).
-
-## Work
+Work
+----
 
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
-:shipit: [**42tm**][42tm] founder & open-source software engineer  
-:shipit: Solo free software developer & advocate
+:shipit: [**42tm**][42tm] founder & free software engineer  
+:shipit: Solo free software developer & advocate  
+:shipit: University of Rochester '25
 
 [cgcentral]: https://cgcentral.github.io
-[42tm]: https://github.com/42tm
+[42tm]:      https://github.com/42tm
 
-## Social
+Info
+----
 
-:sparkles: [**GitHub**][github] :sparkles: [**Instagram**][instagram] :sparkles:
-[**Dribbble**][dribbble] :sparkles: [**Unsplash**][unsplash] :sparkles:
+:technologist: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
+:penguin:      **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
+:computer:     [Fedora GNU/Linux][fedora] & [Parabola GNU/Linux-libre][parabola]  
+:pencil:       [Atom][atom] and nano  
+:heart:        Loves 3D, the Web, and GNU/Linux  
+:yum:          Thinking about learning C++ and vim
 
-[github]: https://github.com/novakcgx
-[instagram]: https://www.instagram.com/thechonkypenguin
-[dribbble]: https://dribbble.com/novakcgx
-[unsplash]: https://unsplash.com/@thechonkypenguin
+[lnagbjs]:   https://github.com/cgcentral/lnagb.js
+[three]:     https://github.com/novakcgx/three.js-sketches
+[ri]:        https://github.com/novakcgx/reveal-init
+[gnu]:       https://github.com/novakcgx/gnu
+[battery]:   https://github.com/novakcgx/battery
 
-<details>
-	<summary>I'm Feeling Lucky (click :point_up_2:)</summary>
-	<b><i>Meet Beefy Miracle!</i></b> :rainbow:
-	<img src="img/beefy_universe.jpg">
-</details>
+[fedora]:    https://getfedora.org
+[parabola]:  https://parabola.nu
+[atom]:      https://atom.io
+
+- - -
+
+:sparkles:
+[**Website**](https://novakcgx.github.io)                    :sparkles:
+[**GitHub**](https://github.com/novakcgx)                    :sparkles:
+[**Instagram**](https://www.instagram.com/thechonkypenguin)  :sparkles:
+[**Dribbble**](https://dribbble.com/novakcgx)                :sparkles:
+[**Unsplash**](https://unsplash.com/@thechonkypenguin)       :sparkles:
