@@ -1,13 +1,13 @@
 Hi, I'm Novak :wave:
 ====================
 
-<img align="right" src="scene.png">
-
 Free software advocate, digital media designer, writer, and aspiring computer
 graphics scientist.
 
 Work
 ----
+
+<img align="right" src="scene.png">
 
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
 :shipit: [**42tm**][42tm] founder & free software engineer  
