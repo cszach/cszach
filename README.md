@@ -11,7 +11,7 @@ Work
 
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
 :shipit: [**42tm**][42tm] founder & free software engineer  
-:shipit: **University of Rochester** Computer Science '25
+:shipit: **University of Rochester** CS '25
 
 [cgcentral]: https://cgcentral.github.io
 [42tm]:      https://github.com/42tm
