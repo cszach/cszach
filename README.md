@@ -1,10 +1,10 @@
 Hi, I'm Novak :wave:
 ====================
 
-Free software advocate, digital media designer, writer, and aspiring computer
-graphics scientist.
+Free software advocate, digital media designer, writer,  
+and aspiring computer graphics scientist.
 
-Work
+Life
 ----
 
 <img align="right" src="scene.png">
@@ -16,25 +16,19 @@ Work
 [cgcentral]: https://cgcentral.github.io
 [42tm]:      https://github.com/42tm
 
-Info
-----
+Dev
+---
 
-:technologist: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
-:penguin:      **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
-:computer:     [Fedora GNU/Linux][fedora] & [Parabola GNU/Linux-libre][parabola]  
-:pencil:       [Atom][atom] and nano  
-:heart:        Loves 3D, the Web, and GNU/Linux  
-:yum:          Thinking about learning C++ and vim
+:bowtie: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
+    :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
+  :memo: **Atom** :atom:, nano, and vim  
+ :heart: **3D**, **the Web**, and **GNU/Linux**
 
-[lnagbjs]:   https://github.com/cgcentral/lnagb.js
-[three]:     https://github.com/novakcgx/three.js-sketches
-[ri]:        https://github.com/novakcgx/reveal-init
-[gnu]:       https://github.com/novakcgx/gnu
-[battery]:   https://github.com/novakcgx/battery
-
-[fedora]:    https://getfedora.org
-[parabola]:  https://parabola.nu
-[atom]:      https://atom.io
+[lnagbjs]: https://github.com/cgcentral/lnagb.js
+[three]:   https://github.com/novakcgx/three.js-sketches
+[ri]:      https://github.com/novakcgx/reveal-init
+[gnu]:     https://github.com/novakcgx/gnu
+[battery]: https://github.com/novakcgx/battery
 
 - - -
 
