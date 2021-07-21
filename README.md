@@ -7,7 +7,7 @@ graphics scientist.
 Life
 ----
 
-<img align="right" src="scene.png">
+<img align="right" src="img/scene.png">
 
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
 :shipit: [**42tm**][42tm] founder & free software engineer  
