@@ -1,6 +1,8 @@
 Hi, I'm Novak :wave:
 ====================
 
+Work
+=======
 Free software advocate, digital media designer, writer,  
 and aspiring computer graphics scientist.
 
