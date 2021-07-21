@@ -32,15 +32,17 @@ Dev
 
 - - -
 
+**My other online presence** :point_right:
+
 <a href="htttps://novakcgx.github.io">
-    <img width="32" align="left" alt="Website" src="img/icons/personal.png" />
+    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>
 <a href="mailto:novakcgx@protonmail.com">
-    <img width="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 <a href="https://www.instagram.com/thechonkypenguin">
-    <img width="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 <a href="https://dribbble.com/novakcgx">
-    <img width="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
