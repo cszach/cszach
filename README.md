@@ -32,7 +32,15 @@ Dev
 
 - - -
 
-[![Website](img/icons/personal.png)](htttps://novakcgx.github.io)
-[![E-mail](img/icons/protonmail.png)](mailto:novakcgx@protonmail.com)
-[![Instagram](img/icons/instagram.png)](https://www.instagram.com/thechonkypenguin)
-[![Dribbble](img/icons/dribbble.png)](https://dribbble.com/novakcgx)
+<a href="htttps://novakcgx.github.io">
+    <img align="left" alt="Website" src="img/icons/personal.png" />
+</a>
+<a href="mailto:novakcgx@protonmail.com">
+    <img align="left" alt="Mail" src="img/icons/protonmail.png" />
+</a>
+<a href="https://www.instagram.com/thechonkypenguin">
+    <img align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+<a href="https://dribbble.com/novakcgx">
+    <img align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+</a>
