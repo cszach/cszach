@@ -33,14 +33,14 @@ Dev
 - - -
 
 <a href="htttps://novakcgx.github.io">
-    <img align="left" alt="Website" src="img/icons/personal.png" />
+    <img width="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>
 <a href="mailto:novakcgx@protonmail.com">
-    <img align="left" alt="Mail" src="img/icons/protonmail.png" />
+    <img width="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 <a href="https://www.instagram.com/thechonkypenguin">
-    <img align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img width="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 <a href="https://dribbble.com/novakcgx">
-    <img align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+    <img width="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
