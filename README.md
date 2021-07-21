@@ -32,7 +32,7 @@ Dev
 
 - - -
 
-<a href="htttps://novakcgx.github.io">
+<a href="https://novakcgx.github.io">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>
 
