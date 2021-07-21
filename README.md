@@ -19,10 +19,10 @@ Life
 Dev
 ---
 
-:bowtie: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
-    :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
-  :memo: **Atom** :atom:, nano, and vim  
- :heart: **3D**, **the Web**, and **GNU/Linux**
+:sunglasses: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
+        :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
+      :memo: **Atom** :atom:, nano, and vim  
+     :heart: **3D**, **the Web**, and **GNU/Linux**
 
 [lnagbjs]: https://github.com/cgcentral/lnagb.js
 [three]:   https://github.com/novakcgx/three.js-sketches
