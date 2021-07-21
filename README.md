@@ -32,9 +32,7 @@ Dev
 
 - - -
 
-:sparkles:
-[**Website**](https://novakcgx.github.io)                    :sparkles:
-[**GitHub**](https://github.com/novakcgx)                    :sparkles:
-[**Instagram**](https://www.instagram.com/thechonkypenguin)  :sparkles:
-[**Dribbble**](https://dribbble.com/novakcgx)                :sparkles:
-[**Unsplash**](https://unsplash.com/@thechonkypenguin)       :sparkles:
+[![Website](img/icons/personal.png)](htttps://novakcgx.github.io)
+[![E-mail](img/icons/protonmail.png)](mailto:novakcgx@protonmail.com)
+[![Instagram](img/icons/instagram.png)](https://www.instagram.com/thechonkypenguin)
+[![Dribbble](img/icons/dribbble.png)](https://dribbble.com/novakcgx)
