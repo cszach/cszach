@@ -9,10 +9,14 @@ Life
 
 <img align="right" src="img/scene.png">
 
+![](https://static.fsf.org/nosvn/associate/crm/5636489.png)
+
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
 :shipit: [**42tm**][42tm] founder & free software engineer  
+:shipit: [**Free Software Foundation**][fsf] Annual Student Associate Member  
 :shipit: **University of Rochester** CS '25
 
+[fsf]:       https://member.fsf.org
 [cgcentral]: https://cgcentral.github.io
 [42tm]:      https://github.com/42tm
 
