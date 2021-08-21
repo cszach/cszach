@@ -11,10 +11,10 @@ Life
 
 ![](https://static.fsf.org/nosvn/associate/crm/5636489.png)
 
+:shipit: [**Free Software Foundation**][fsf] Student Associate Member  
+:shipit: **University of Rochester** Computer Science '25  
 :shipit: [**Computer Graphics Central**][cgcentral] founder  
-:shipit: [**42tm**][42tm] founder & free software engineer  
-:shipit: [**Free Software Foundation**][fsf] Annual Student Associate Member  
-:shipit: **University of Rochester** CS '25
+:shipit: [**42tm**][42tm] founder & free software engineer
 
 [fsf]:       https://member.fsf.org
 [cgcentral]: https://cgcentral.github.io
