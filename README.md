@@ -36,11 +36,11 @@ Dev
 
 - - -
 
-<a href="https://novakcgx.github.io">
+<a href="http://novakcgx.me">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>
 
-<a href="mailto:novakcgx@protonmail.com">
+<a href="mailto:hi@novakcgx.me">
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 
