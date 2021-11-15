@@ -7,15 +7,13 @@ scientist.
 What's up?
 ----------
 
-:sparkles: The exciting AI conference [NVIDIA GTC 2021][gtc] is in November.  
-:sparkles: Don't miss [MozFest 2022][mozfest].  
-:sparkles: [Support Richard Stallman][stallmansupport], end disinformation.  
-:sparkles: And of course, mark [GitHub Universe 2021][universe] on your calendar.
+:sparkles: [Advent of Code 2021][aoc2021] opens December 1st!  
+:sparkles: Don't miss [MozFest 2022][mozfest2022].  
+:sparkles: [Support Richard Stallman][stallmansupport], end disinformation.
 
-[gtc]: https://www.nvidia.com/gtc
-[mozfest]: https://www.mozillafestival.org
+[aoc2021]: https://adventofcode.com
+[mozfest2022]: https://www.mozillafestival.org
 [stallmansupport]: https://stallmansupport.org
-[universe]: https://githubuniverse.com/
 
 Life
 ----
