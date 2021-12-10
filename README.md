@@ -35,11 +35,11 @@ Life
 Dev
 ---
 
-    :coffee: **Java** ([AoC 2020][aoc2020], [AoC 2021][aoc2021])  
+:coffee:     **Java** ([AoC 2020][aoc2020], [AoC 2021][aoc2021])  
 :sunglasses: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
-        :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
-      :memo: vim, nano  
-     :heart: **3D**, **new tech**, and **GNU/Linux**
+:ox:         **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
+:memo:       **Vim**, GNU nano  
+:heart:      **3D**, **new tech**, and **GNU/Linux**
 
 [aoc2020]: https://github.com/novakcgx/advent-of-code-2020
 [aoc2021]: https://github.com/novakcgx/advent-of-code-2021
