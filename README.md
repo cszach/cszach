@@ -7,7 +7,7 @@ scientist.
 What's up?
 ----------
 
-:sparkles: [Advent of Code 2021][aoc2021] opens December 1st!  
+:sparkles: [Advent of Code 2021][aoc2021]!  
 :sparkles: Don't miss [MozFest 2022][mozfest2022].  
 :sparkles: [Support Richard Stallman][stallmansupport], end disinformation.
 
@@ -35,11 +35,14 @@ Life
 Dev
 ---
 
+    :coffee: **Java** ([AoC 2020][aoc2020], [AoC 2021][aoc2021])  
 :sunglasses: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
         :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
-      :memo: **Atom** :atom:, nano  
+      :memo: vim, nano  
      :heart: **3D**, **new tech**, and **GNU/Linux**
 
+[aoc2020]: https://github.com/novakcgx/advent-of-code-2020
+[aoc2021]: https://github.com/novakcgx/advent-of-code-2021
 [lnagbjs]: https://github.com/cgcentral/lnagb.js
 [three]:   https://github.com/novakcgx/three.js-sketches
 [ri]:      https://github.com/novakcgx/reveal-init
@@ -48,7 +51,7 @@ Dev
 
 - - -
 
-<a href="http://novakcgx.me">
+<a href="https://novakcgx.me">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>
 
