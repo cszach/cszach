@@ -47,12 +47,12 @@ Dev
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
 <a href="https://liberapay.com/novakcgx">
     <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
+</a>
+
+<a href="https://www.instagram.com/thechonkypenguin">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
 <a href="https://dribbble.com/novakcgx">
