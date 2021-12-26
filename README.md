@@ -4,17 +4,6 @@ Hi, I'm Novak :wave:
 Free software engineer, digital media designer, and aspiring computer graphics 
 scientist.
 
-What's up?
-----------
-
-:sparkles: [Advent of Code 2021][aoc2021]!  
-:sparkles: Don't miss [MozFest 2022][mozfest2022].  
-:sparkles: [Support Richard Stallman][stallmansupport], end disinformation.
-
-[aoc2021]: https://adventofcode.com
-[mozfest2022]: https://www.mozillafestival.org
-[stallmansupport]: https://stallmansupport.org
-
 Life
 ----
 
@@ -60,6 +49,10 @@ Dev
 
 <a href="https://www.instagram.com/thechonkypenguin">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
+<a href="https://liberapay.com/novakcgx">
+    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
 </a>
 
 <a href="https://dribbble.com/novakcgx">
