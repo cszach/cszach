@@ -23,7 +23,7 @@ Skills
 :sunglasses:     **JavaScript** ([lnagb.js][3])  
 :ox:             **Bash** ([reveal-init][4], [gnu][5], [battery][6])  
 :computer_mouse: **Interactive web design** w/ three.js, p5.js, [Spline][7]
-                 ([three.js sketches][8], [Flat Candies][9], [novakcgx.me][10])
+                 ([three.js sketches][8], [Flat Candies][9], [novakcgx.me][10])  
 :paintbrush:     **Vector graphics design** w/ Inkscape ([designs][11])
 
 [1]: https://github.com/novakcgx/advent-of-code-2021
