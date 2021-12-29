@@ -26,6 +26,8 @@ Skills
                  ([three.js sketches][8], [Flat Candies][9], [novakcgx.me][10])  
 :paintbrush:     **Vector graphics design** w/ Inkscape ([designs][11])
 
+###### Learning: three.js, Blender, Tailwind CSS
+
 [1]: https://github.com/novakcgx/advent-of-code-2021
 [2]: https://novakcgx.me/adams-todo
 [3]: https://novakcgx.me/lnagb.js
