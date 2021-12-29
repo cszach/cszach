@@ -1,15 +1,12 @@
 Hi, I'm Novak :wave:
 ====================
 
-Free software engineer, digital media designer, and aspiring computer graphics 
-scientist.
+Free software engineer, digital media designer, and aspiring computer scientist.
 
 Life
 ----
 
 <img align="right" src="img/scene.png">
-
-![](https://static.fsf.org/nosvn/associate/crm/5636489.png)
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
 :shipit: [**University of Rochester**][csur] Computer Science '25  
@@ -19,23 +16,27 @@ Life
 [csur]: https://www.cs.rochester.edu
 [42tm]: https://github.com/42tm
 
-Dev
----
+Skills
+------
 
-:coffee:     **Java** ([AoC 2020][aoc2020], [AoC 2021][aoc2021])  
-:sunglasses: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three], [Flat Candies][flat])  
-:ox:         **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
-:memo:       **Vim**, GNU nano  
-:heart:      **3D**, **new tech**, and **GNU/Linux**
+:coffee:         **Java** ([AoC 2021][1], [Adam's To-do][2])  
+:sunglasses:     **JavaScript** ([lnagb.js][3])  
+:ox:             **Bash** ([reveal-init][4], [gnu][5], [battery][6])  
+:computer_mouse: **Interactive web design** w/ three.js, p5.js, [Spline][7]
+                 ([three.js sketches][8], [Flat Candies][9], [novakcgx.me][10])
+:paintbrush:     **Vector graphics design** w/ Inkscape ([designs][11])
 
-[aoc2020]: https://github.com/novakcgx/advent-of-code-2020
-[aoc2021]: https://github.com/novakcgx/advent-of-code-2021
-[lnagbjs]: https://github.com/novakcgx/lnagb.js
-[three]:   https://github.com/novakcgx/three.js-sketches
-[flat]:    https://github.com/novakcgx/flat-candies
-[ri]:      https://github.com/novakcgx/reveal-init
-[gnu]:     https://github.com/novakcgx/gnu
-[battery]: https://github.com/novakcgx/battery
+[1]: https://github.com/novakcgx/advent-of-code-2021
+[2]: https://novakcgx.me/adams-todo
+[3]: https://novakcgx.me/lnagb.js
+[4]: https://novakcgx.me/reveal-init
+[5]: https://novakcgx.me/gnu
+[6]: https://novakcgx.me/battery
+[7]: https://spline.design
+[8]: https://novakcgx.me/three.js-sketches
+[9]: https://novakcgx.me/flat-candies
+[10]: https://novakcgx.me
+[11]: https://novakcgx.me/designs
 
 - - -
 
