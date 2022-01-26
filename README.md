@@ -10,7 +10,7 @@ Life
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
 :shipit: [**University of Rochester**][csur] Computer Science '25  
-:shipit: [**UR CSUG**][csug] tutor
+:shipit: [**UR CSUG**][csug] tutor  
 :shipit: [**42tm**][42tm] founder & free software engineer
 
 [fsf]:  https://member.fsf.org
