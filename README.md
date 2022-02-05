@@ -42,6 +42,13 @@ Skills
 [10]: https://novakcgx.me
 [11]: https://novakcgx.me/designs
 
+Sponsors
+--------
+
+[Brett Zamir][brettz9]
+
+[brettz9]: http://brett-zamir.me
+
 - - -
 
 <a href="https://novakcgx.me">
