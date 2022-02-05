@@ -9,7 +9,7 @@ Life
 <img align="right" src="img/scene.png">
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
-:shipit: [**University of Rochester**][csur] Computer Science '25  
+:shipit: [**University of Rochester**][csur] Dean's Scholar, Computer Science '25  
 :shipit: [**UR CSUG**][csug] tutor  
 :shipit: [**42tm**][42tm] founder & free software engineer
 
