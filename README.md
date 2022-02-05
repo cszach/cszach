@@ -45,7 +45,7 @@ Skills
 Sponsors
 --------
 
-[Brett Zamir][brettz9]
+I thank the following people for sponsoring my work: [Brett Zamir][brettz9].
 
 [brettz9]: http://brett-zamir.me
 
