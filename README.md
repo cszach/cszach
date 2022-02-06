@@ -9,12 +9,12 @@ Life
 <img align="right" src="img/scene.png">
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
-:shipit: [**University of Rochester**][csur] Dean's Scholar, Computer Science '25  
+:shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
 :shipit: [**UR CSUG**][csug] tutor  
 :shipit: [**42tm**][42tm] founder & free software engineer
 
-[fsf]:  https://member.fsf.org
-[csur]: https://www.cs.rochester.edu
+[fsf]:  https://fsf.org
+[ur]: https://rochester.edu
 [csug]: https://ur-csug.org
 [42tm]: https://github.com/42tm
 
@@ -45,9 +45,9 @@ Skills
 Sponsors
 --------
 
-I thank the following people for sponsoring my work: [Brett Zamir][brettz9].
-
 [brettz9]: http://brett-zamir.me
+
+Many thanks to [Brett Zamir][brettz9] for sponsoring my work.
 
 - - -
 
@@ -57,6 +57,14 @@ I thank the following people for sponsoring my work: [Brett Zamir][brettz9].
 
 <a href="mailto:hi@novakcgx.me">
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+</a>
+
+<a href="https://paypal.me/dnguy38">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+</a>
+
+<a href="https://www.buymeacoffee.com/novakcgx">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
 </a>
 
 <a href="https://liberapay.com/novakcgx">
