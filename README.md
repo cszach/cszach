@@ -21,26 +21,25 @@ Life
 Skills
 ------
 
-:coffee:         **Java** ([AoC 2021][1], [Adam's To-do][2])  
-:sunglasses:     **JavaScript** ([lnagb.js][3])  
-:ox:             **Bash** ([reveal-init][4], [gnu][5], [battery][6])  
-:computer_mouse: **Interactive web design** w/ three.js, p5.js, [Spline][7]
-                 ([three.js sketches][8], [Flat Candies][9], [novakcgx.me][10])  
-:paintbrush:     **Vector graphics design** w/ Inkscape ([designs][11])
+:coffee:         **Java** ([Adam's To-do][1])  
+:sunglasses:     **JavaScript** ([lnagb.js][2])  
+:ox:             **Bash** ([reveal-init][3], [gnu][4], [battery][5])  
+:computer_mouse: **Web 3D** w/ three.js, p5.js, [Spline][6]
+                 ([three.js sketches][7], [Flat Candies][8], [novakcgx.me][9])  
+:paintbrush:     **Vector graphics design** w/ Inkscape ([designs][10])
 
 ###### Learning: three.js, Blender, Tailwind CSS
 
-[1]: https://github.com/novakcgx/advent-of-code-2021
-[2]: https://novakcgx.me/adams-todo
-[3]: https://novakcgx.me/lnagb.js
-[4]: https://novakcgx.me/reveal-init
-[5]: https://novakcgx.me/gnu
-[6]: https://novakcgx.me/battery
-[7]: https://spline.design
-[8]: https://novakcgx.me/three.js-sketches
-[9]: https://novakcgx.me/flat-candies
-[10]: https://novakcgx.me
-[11]: https://novakcgx.me/designs
+[1]: https://novakcgx.me/adams-todo
+[2]: https://novakcgx.me/lnagb.js
+[3]: https://novakcgx.me/reveal-init
+[4]: https://novakcgx.me/gnu
+[5]: https://novakcgx.me/battery
+[6]: https://spline.design
+[7]: https://novakcgx.me/three.js-sketches
+[8]: https://novakcgx.me/flat-candies
+[9]: https://novakcgx.me
+[10]: https://novakcgx.me/designs
 
 Sponsors
 --------
