@@ -42,7 +42,7 @@ Sponsors
 
 [brettz9]: http://brett-zamir.me
 
-Many thanks to [Brett Zamir][brettz9] for sponsoring my work.
+Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
 
 - - -
 
