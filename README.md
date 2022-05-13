@@ -10,32 +10,35 @@ Life
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**UR CSUG**][csug] tutor  
+:shipit: [**UR CSUG**][csug] tutoring chair  
+:shipit: [**DandyHacks**][dandyhacks] 2022 organizer  
 :shipit: [**42tm**][42tm] founder & free software engineer
 
 [fsf]:  https://fsf.org
 [ur]: https://rochester.edu
 [csug]: https://ur-csug.org
+[dandyhacks]: https://dandyhacks.net
 [42tm]: https://github.com/42tm
 
 Skills
 ------
 
-:coffee:         **Java** ([Adam's To-do][1])  
-:sunglasses:     **JavaScript** ([lnagb.js][2])  
-:ox:             **Bash** ([reveal-init][3], [gnu][4], [battery][5])  
-:computer_mouse: **Web 3D** w/ three.js ([three.js sketches][6])  
-:paintbrush:     **Graphics design** w/ Inkscape ([designs][7])
+:coffee:         **Java** ([Adam's To-do][1], [Air2D][2])  
+:sunglasses:     **JavaScript** ([lnagb.js][3])  
+:ox:             **Bash** ([reveal-init][4], [gnu][5], [battery][6])  
+:computer_mouse: **Web 3D** w/ three.js ([three.js sketches][7])  
+:paintbrush:     **Graphics design** w/ Inkscape ([designs][8])
 
 ###### Learning: three.js, Blender, Tailwind CSS, Unreal Engine
 
 [1]: https://novakcgx.me/adams-todo
-[2]: https://novakcgx.me/lnagb.js
-[3]: https://novakcgx.me/reveal-init
-[4]: https://novakcgx.me/gnu
-[5]: https://novakcgx.me/battery
-[6]: https://novakcgx.me/three.js-sketches
-[7]: https://novakcgx.me/designs
+[2]: https://novakcgx.me/Air2D
+[3]: https://novakcgx.me/lnagb.js
+[4]: https://novakcgx.me/reveal-init
+[5]: https://novakcgx.me/gnu
+[6]: https://novakcgx.me/battery
+[7]: https://novakcgx.me/three.js-sketches
+[8]: https://novakcgx.me/designs
 
 Sponsors
 --------
