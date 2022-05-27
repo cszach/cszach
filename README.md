@@ -45,7 +45,7 @@ Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:hi@novakcgx.me">
+<a href="mailto:cszach@proton.me">
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 
