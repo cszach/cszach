@@ -30,7 +30,7 @@ Skills
 :computer_mouse: **Web 3D** w/ three.js  
 :paintbrush:     **Graphics design** w/ Inkscape
 
-###### Learning: Java, data structures, network programming
+###### Learning: Java, data structures, network programming, Python, PyGTK
 
 Sponsors
 --------
