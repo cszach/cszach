@@ -11,26 +11,26 @@ Life
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
+:shipit: [**42tm**][42tm] founder & software engineer
 :shipit: [**UR CSUG**][csug] tutoring chair  
 :shipit: [**DandyHacks**][dandyhacks] 2022 organizer  
-:shipit: [**42tm**][42tm] founder & software engineer
 
 [fsf]:  https://fsf.org
 [ur]: https://rochester.edu
+[42tm]: https://github.com/42tm
 [csug]: https://ur-csug.org
 [dandyhacks]: https://dandyhacks.net
-[42tm]: https://github.com/42tm
 
 Skills
 ------
 
-:coffee:         **Java**  
+:coffee:         **Java**, Java Swing  
+:snake:          **Python**, PyGTK  
 :sunglasses:     **JavaScript**  
-:ox:             **Bash**  
-:computer_mouse: **Web 3D** w/ three.js  
-:paintbrush:     **Graphics design** w/ Inkscape
+:paintbrush:     **Graphics design** w/ Inkscape  
+:pick:           Vim, Bash, Linux, terminal + `tmux`
 
-###### Learning: Java, data structures, network programming, Python, PyGTK
+###### Learning: Data structures, design patterns, network programming, PyGTK
 
 Sponsors
 --------
