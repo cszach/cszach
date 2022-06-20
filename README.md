@@ -11,9 +11,9 @@ Life
 
 :shipit: [**Free Software Foundation**][fsf] Student Associate Member  
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**42tm**][42tm] founder & software engineer
+:shipit: [**42tm**][42tm] founder & software engineer  
 :shipit: [**UR CSUG**][csug] tutoring chair  
-:shipit: [**DandyHacks**][dandyhacks] 2022 organizer  
+:shipit: [**DandyHacks**][dandyhacks] 2022 organizer
 
 [fsf]:  https://fsf.org
 [ur]: https://rochester.edu
