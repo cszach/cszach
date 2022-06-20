@@ -27,17 +27,20 @@ Skills
 :coffee:         **Java**, Java Swing  
 :snake:          **Python**, PyGTK  
 :sunglasses:     **JavaScript**  
-:paintbrush:     **Graphics design** w/ Inkscape  
+:paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
 :pick:           Vim, Bash, Linux, terminal + `tmux`
+
+[inkscape]: https://inkscape.org
+[spline]: https://spline.design
 
 ###### Learning: Data structures, design patterns, network programming, PyGTK
 
 Sponsors
 --------
 
-[brettz9]: http://brett-zamir.me
-
 Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
+
+[brettz9]: http://brett-zamir.me
 
 - - -
 
