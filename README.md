@@ -33,7 +33,7 @@ Skills
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
 
-###### Learning: Data structures, design patterns, network programming, PyGTK
+###### Learning: Data structures, design patterns, network programming
 
 Sponsors
 --------
