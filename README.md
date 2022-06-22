@@ -28,7 +28,7 @@ Skills
 :snake:          **Python**, PyGTK  
 :sunglasses:     **JavaScript**  
 :paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
-:pick:           Vim, Bash, Linux, terminal + `tmux`
+:pick:           NeoVim, Linux, Bash, command line, `tmux`
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
