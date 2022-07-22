@@ -50,6 +50,10 @@ Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
     <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
 </a>
 
+<a href="https://www.linkedin.com/in/zach-nguyen">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
 <a href="https://paypal.me/dnguy38">
     <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
