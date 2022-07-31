@@ -24,7 +24,7 @@ Skills
 
 :coffee:         **Java**, Java Swing  
 :snake:          **Python**, PyGTK  
-:sunglasses:     **JavaScript**  
+:sunglasses:     **JavaScript**, three.js, p5.js  
 :paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
 :pick:           NeoVim, Linux, Bash, command line, `tmux`
 
