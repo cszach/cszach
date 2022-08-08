@@ -11,8 +11,8 @@ Life
 
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
 :shipit: [**42tm**][42tm] founder & software engineer  
-:shipit: [**UR CSUG**][csug] tutoring chair  
-:shipit: [**DandyHacks**][dandyhacks] 2022 organizer
+:shipit: [**UR CSUG**][csug] tutor → tutoring chair  
+:shipit: [**DandyHacks**][dandyhacks] 2021 First Place winner, 2022 organizer
 
 [ur]: https://rochester.edu
 [42tm]: https://github.com/42tm
@@ -31,7 +31,7 @@ Skills
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
 
-###### Learning: Data structures, design patterns, network programming
+###### Learning: Data structures, design patterns, full-stack web development
 
 Sponsors
 --------
