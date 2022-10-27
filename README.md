@@ -1,8 +1,7 @@
 Hi, I'm Zach :wave:
 ===================
 
-Software engineer, digital media designer, and aspiring computer scientist and
-software entrepreneur.
+Software engineer, digital media designer, and aspiring software entrepreneur.
 
 Life
 ----
@@ -11,7 +10,7 @@ Life
 
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
 :shipit: [**42tm**][42tm] founder & software engineer  
-:shipit: [**UR CSUG**][csug] tutor → tutoring chair  
+:shipit: [**UR CSUG**][csug] tutoring chair  
 :shipit: [**DandyHacks**][dandyhacks] 2021 First Place winner, 2022 organizer
 
 [ur]: https://rochester.edu
@@ -24,14 +23,14 @@ Skills
 
 :coffee:         **Java**, Java Swing  
 :snake:          **Python**, PyGTK  
-:sunglasses:     **JavaScript**, three.js, p5.js  
+:sunglasses:     **JavaScript**, React, three.js, p5.js  
 :paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
 :pick:           NeoVim, Linux, Bash, command line, `tmux`
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
 
-###### Learning: Data structures, design patterns, full-stack web development
+###### Learning: C, Rust, software engineering, full-stack web development
 
 Sponsors
 --------
