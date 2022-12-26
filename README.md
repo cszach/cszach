@@ -22,7 +22,7 @@ Skills
 ------
 
 :coffee:         **Java**, Java Swing  
-:gear:           **C/C++**
+:gear:           **C/C++**  
 :snake:          **Python**, PyGTK  
 :sunglasses:     **JavaScript**, React, three.js, p5.js  
 :paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
