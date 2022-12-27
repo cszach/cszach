@@ -22,7 +22,7 @@ Skills
 ------
 
 :coffee:         **Java**, Java Swing  
-:gear:           **C/C++**  
+:gear:           **C/C++**, **Rust**  
 :snake:          **Python**, PyGTK  
 :sunglasses:     **JavaScript**, React, three.js, p5.js  
 :paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
@@ -31,7 +31,7 @@ Skills
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
 
-###### Learning: C, Rust, software engineering, full-stack web development
+###### Learning: C++, ray tracing, 3D graphics, full-stack web development
 
 Sponsors
 --------
