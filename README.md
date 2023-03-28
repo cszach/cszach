@@ -2,6 +2,9 @@ Hi, I'm Zach :wave:
 ===================
 
 Software engineer, digital media designer, and aspiring software entrepreneur.
+Building [Abyss Inc.][abyss] (we are hiring).
+
+[abyss]: https://github.com/abyss-inc
 
 Life
 ----
@@ -10,28 +13,32 @@ Life
 
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
 :shipit: [**42tm**][42tm] founder & software engineer  
-:shipit: [**UR CSUG**][csug] tutoring chair  
-:shipit: [**DandyHacks**][dandyhacks] 2021 First Place winner, 2022 organizer
+:shipit: [**Abyss Inc.**][abyss] founder & software engineer  
+:shipit: [**UR CSUG**][csug] Tutoring Chair  
+:shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
+:shipit: [**RocLab**][roclab] frontend engineer
 
 [ur]: https://rochester.edu
 [42tm]: https://github.com/42tm
 [csug]: https://ur-csug.org
 [dandyhacks]: https://dandyhacks.net
+[roclab]: https://roclab.io
 
 Skills
 ------
 
-:coffee:         **Java**, Java Swing  
+:coffee:         **Java**, **Kotlin**  
 :gear:           **C/C++**, **Rust**  
-:snake:          **Python**, PyGTK  
-:sunglasses:     **JavaScript**, React, three.js, p5.js  
+:snake:          **Python**  
+:sunglasses:     **JavaScript**, **React.js**  
 :paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
-:pick:           NeoVim, Linux, Bash, command line, `tmux`
+:pick:           [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
+[code]: https://code.visualstudio.com
 
-###### Learning: C++, ray tracing, 3D graphics, full-stack web development
+###### Learning: Kotlin, TypeScript, full-stack web development
 
 Sponsors
 --------
