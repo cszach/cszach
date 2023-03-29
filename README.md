@@ -1,13 +1,11 @@
-Hi, I'm Zach :wave:
-===================
+# Hi, I'm Zach :wave:
 
 Software engineer, digital media designer, and aspiring software entrepreneur.
 Building [Abyss Inc.][abyss] (we are hiring).
 
 [abyss]: https://github.com/abyss-inc
 
-Life
-----
+## Life
 
 <img align="right" src="img/scene.png">
 
@@ -24,30 +22,31 @@ Life
 [dandyhacks]: https://dandyhacks.net
 [roclab]: https://roclab.io
 
-Skills
-------
+## Skills
 
-:coffee:         **Java**, **Kotlin**  
-:gear:           **C/C++**, **Rust**  
-:snake:          **Python**  
-:sunglasses:     **JavaScript**, **React.js**  
-:paintbrush:     [Inkscape][inkscape] (2D), [Spline][spline] (3D)  
-:pick:           [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`
+:coffee: **Java**, **Kotlin**  
+:gear: **C/C++**, **Rust**  
+:snake: **Python**  
+:sunglasses: **JavaScript**, **React.js**  
+:paintbrush: [Inkscape][inkscape] (2D), [Spline][spline], [Blender][blender] (3D)  
+:pick: [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`  
+:paintbrush: Graphics design, :man_dancing: breakdancing, :skateboard:
+  skateboarding, :computer_mouse: interactive experiences
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
+[blender]: https://www.blender.org
 [code]: https://code.visualstudio.com
 
 ###### Learning: Kotlin, TypeScript, full-stack web development
 
-Sponsors
---------
+## Sponsors
 
 Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
 
 [brettz9]: http://brett-zamir.me
 
-- - -
+---
 
 <!--<a href="https://novakcgx.me">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
