@@ -1,7 +1,7 @@
 # Hi, I'm Zach :wave:
 
-Software engineer, digital media designer, and aspiring software entrepreneur.
-Building [Abyss Inc.][abyss] (we are hiring).
+Software engineer, digital media designer, and aspiring software entrepreneur.  
+Building [Abyss Inc.][abyss] (**we are hiring!**).
 
 [abyss]: https://github.com/abyss-inc
 
@@ -42,7 +42,7 @@ Building [Abyss Inc.][abyss] (we are hiring).
 
 ## Sponsors
 
-Many thanks to [Brett Zamir][brettz9] and JT for sponsoring my work.
+Many thanks to [Brett Zamir][brettz9] and Justin for sponsoring my work.
 
 [brettz9]: http://brett-zamir.me
 
