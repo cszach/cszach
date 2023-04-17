@@ -38,7 +38,7 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 [blender]: https://www.blender.org
 [code]: https://code.visualstudio.com
 
-###### Learning: Kotlin, TypeScript, full-stack web development
+###### Learning: Rust, Kotlin, TypeScript, full-stack web development
 
 ## Sponsors
 
