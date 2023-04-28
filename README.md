@@ -10,13 +10,14 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 <img align="right" src="img/scene.png">
 
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**42tm**][42tm] founder & software engineer  
-:shipit: [**Abyss Inc.**][abyss] founder & software engineer  
+:shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
+:shipit: [**42tm**][42tm], [**Abyss Inc.**][abyss] founder & software engineer  
 :shipit: [**UR CSUG**][csug] Tutoring Chair  
 :shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
 :shipit: [**RocLab**][roclab] frontend engineer
 
 [ur]: https://rochester.edu
+[siggraph]: https://siggraph.org
 [42tm]: https://github.com/42tm
 [csug]: https://ur-csug.org
 [dandyhacks]: https://dandyhacks.net
@@ -27,7 +28,7 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 :coffee: **Java**, **Kotlin**  
 :gear: **C/C++**, **Rust**  
 :snake: **Python**  
-:sunglasses: **JavaScript**, **React.js**  
+:sunglasses: **JavaScript**, **TypeScript**, **React.js**  
 :paintbrush: [Inkscape][inkscape] (2D), [Spline][spline], [Blender][blender] (3D)  
 :pick: [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`  
 :paintbrush: Graphics design, :man_dancing: breakdancing, :skateboard:
@@ -38,7 +39,7 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 [blender]: https://www.blender.org
 [code]: https://code.visualstudio.com
 
-###### Learning: Rust, Kotlin, TypeScript, full-stack web development
+###### Learning: Rust, full-stack web development
 
 ## Sponsors
 
@@ -52,8 +53,8 @@ Many thanks to [Brett Zamir][brettz9] and Justin for sponsoring my work.
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
 </a>-->
 
-<a href="mailto:cszach@proton.me">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+<a href="mailto:duongnguyen18@siggraph.org">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/zach-nguyen">
