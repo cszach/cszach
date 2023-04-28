@@ -7,8 +7,6 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 
 ## Life
 
-<img align="right" src="img/scene.png">
-
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
 :shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
 :shipit: [**42tm**][42tm], [**Abyss Inc.**][abyss] founder & software engineer  
@@ -25,13 +23,13 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 
 ## Skills
 
-:coffee: **Java**, **Kotlin**  
-:gear: **C/C++**, **Rust**  
-:snake: **Python**  
-:sunglasses: **JavaScript**, **TypeScript**, **React.js**  
-:paintbrush: [Inkscape][inkscape] (2D), [Spline][spline], [Blender][blender] (3D)  
-:pick: [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`  
-:paintbrush: Graphics design, :man_dancing: breakdancing, :skateboard:
+:coffee: **Java**, **Kotlin**,
+:gear: **C/C++**, **Rust**,
+:snake: **Python**,
+:sunglasses: **JavaScript**, **TypeScript**, **React.js**,
+:paintbrush: [Inkscape][inkscape] (2D), [Spline][spline], [Blender][blender] (3D),
+:pick: [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`,
+:paintbrush: graphics design, :man_dancing: breakdancing, :skateboard:
   skateboarding, :computer_mouse: interactive experiences
 
 [inkscape]: https://inkscape.org
