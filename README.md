@@ -10,12 +10,12 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
+:shipit: [**UR Systems Research**][systems] REU student  
 :shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
-:shipit: [**42tm**][42tm] founder & software engineer  
-:shipit: [**Abyss Inc.**][abyss] founder  
-:shipit: [**UR Systems Research Group**][systems] REU student  
 :shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
-:shipit: [**RocLab**][roclab] frontend engineer
+:shipit: [**Abyss Inc.**][abyss] founder  
+:shipit: [**RocLab**][roclab] frontend engineer  
+:shipit: [**42tm**][42tm] founder & software engineer
 
 [ur]: https://rochester.edu
 [siggraph]: https://siggraph.org
