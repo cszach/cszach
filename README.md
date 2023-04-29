@@ -7,16 +7,19 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 
 ## Life
 
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
 :shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
 :shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
 :shipit: [**42tm**][42tm], [**Abyss Inc.**][abyss] founder & software engineer  
-:shipit: [**UR CSUG**][csug] Tutoring Chair  
+:shipit: [**UR Systems Research Group**][systems] REU student  
 :shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
 :shipit: [**RocLab**][roclab] frontend engineer
 
 [ur]: https://rochester.edu
 [siggraph]: https://siggraph.org
 [42tm]: https://github.com/42tm
+[systems]: https://www.cs.rochester.edu/dept/systems/
 [csug]: https://ur-csug.org
 [dandyhacks]: https://dandyhacks.net
 [roclab]: https://roclab.io
@@ -37,13 +40,11 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 [blender]: https://www.blender.org
 [code]: https://code.visualstudio.com
 
-###### Learning: Rust, full-stack web development
+### Interests
 
-## Sponsors
+web development (full-stack), computer graphics, machine learning, Rust, programming languages, parallel computing, data structures, algorithms, software design, AR/VR
 
-Many thanks to [Brett Zamir][brettz9] and Justin for sponsoring my work.
-
-[brettz9]: http://brett-zamir.me
+GIF by Sand Castles Studio for their game Bread & Fred.
 
 ---
 
