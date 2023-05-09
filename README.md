@@ -32,14 +32,15 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 :snake: **Python**,
 :sunglasses: **JavaScript**, **TypeScript**, **React.js**,
 :paintbrush: [Inkscape][inkscape] (2D), [Spline][spline], [Blender][blender] (3D),
-:pick: [VS Code][code] + Vim mode, Linux, Bash, command line, `tmux`,
+:pick: VS Code + Vim mode, [Helix][hx], Linux, Zsh + [Zellij][zellij],
 :paintbrush: graphics design, :man_dancing: breakdancing, :skateboard:
   skateboarding, :computer_mouse: interactive experiences
 
 [inkscape]: https://inkscape.org
 [spline]: https://spline.design
 [blender]: https://www.blender.org
-[code]: https://code.visualstudio.com
+[hx]: https://helix-editor.com
+[zellij]: https://zellij.dev
 
 ### Interests
 
