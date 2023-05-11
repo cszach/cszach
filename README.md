@@ -27,6 +27,7 @@ Building [Abyss Inc.][abyss] (**we are hiring!**).
 
 ## Skills
 
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
@@ -42,19 +43,17 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 ### Software
 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge&link=https://blender.org)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
+![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge&link=https://helix-editor.com)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge&link=https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
-_Badges unavailable for [Helix][hx]) (my current primary text editor), Zsh (my
-current shell), and [Zellij][zellij] (my current terminal multiplexer)._
-
-[hx]: https://helix-editor.com
-[zellij]: https://zellij.dev
+![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge&link=https://zellij.dev)
+![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge&link=https://ohmyz.sh)
 
 ### Interests
 
