@@ -44,22 +44,26 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ### Software
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge&link=https://blender.org)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge&link=https://helix-editor.com)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge&link=https://inkscape.org)
+[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge&link=https://zellij.dev)
-![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge&link=https://ohmyz.sh)
+[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
+[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 ### Interests
 
-web development (full-stack), computer graphics, machine learning, Rust,
-programming languages, parallel computing, data structures, algorithms, software
-design, AR/VR
+Let's connect and talk about…
+
+Algorithms, AR/VR, computer graphics, data structures, machine learning,
+parallel computing, programming languages, Rust, software design, web
+development,
+
+…or anything you'd like. （๑╹◡╹๑）
 
 GIF by Sand Castles Studio for their game Bread & Fred.
 
