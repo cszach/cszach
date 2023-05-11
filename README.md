@@ -59,7 +59,7 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 Let's connect and talk about…
 
-Algorithms, AR/VR, computer graphics, data structures, machine learning,
+algorithms, AR/VR, computer graphics, data structures, machine learning,
 parallel computing, programming languages, Rust, software design, web
 development,
 
