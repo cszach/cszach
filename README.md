@@ -1,7 +1,7 @@
 # Hi, I'm Zach :wave:
 
 Software engineer, digital media designer, and aspiring software entrepreneur.  
-Building [Abyss Inc.][abyss] (**we are hiring!**).
+Building [Abyss Inc.][abyss].
 
 [abyss]: https://github.com/abyss-inc
 
@@ -55,6 +55,8 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
+
+<h4 align="center">Looking for a software engineering intern? <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a></h6>
 
 ### Interests
 
