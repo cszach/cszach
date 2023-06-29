@@ -14,7 +14,7 @@ Building [Abyss Inc.][abyss]
 :shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
 :shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
 :shipit: [**Abyss Inc.**][abyss] founder  
-:shipit: [**RocLab**][roclab] frontend engineer  
+:shipit: [**RocLab**][roclab] full-stack engineer  
 :shipit: [**42tm**][42tm] founder & software engineer
 
 [ur]: https://rochester.edu
