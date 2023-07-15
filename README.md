@@ -1,7 +1,8 @@
 # Hi, I'm Zach :wave:
 
 Software engineering student and aspiring software entrepreneur with  
-a focus on modular software and clean code.  
+a focus on modular software and clean code.
+
 Interested in building fun, interactive, and beautiful experiences  
 (front-end/graphics/games/VR/creative coding).  
 
@@ -13,7 +14,8 @@ Interested in building fun, interactive, and beautiful experiences
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: Android @ [**Taperk**][taperk]  
 :shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss] & [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
+:shipit: Founder @ [**Abyss Inc.**][abyss]  
+:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
 :shipit: Open-source enthusiast year-round (3400+ contributions)
 
 [42tm]: https://github.com/42tm
