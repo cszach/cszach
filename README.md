@@ -3,17 +3,14 @@
 Software engineering student and aspiring software entrepreneur with a focus on
 modular software and clean code. Interested in building fun, interactive, and
 beautiful experiences (front-end/graphics/games/VR/creative coding).  
-Building [Abyss Inc.][abyss]
-
-[abyss]: https://github.com/abyss-inc
-
-## Life
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
+## Life
+
 :shipit: CS @ [**University of Rochester**][ur]  
 :shipit: REU Fellow @ [**URCS Systems Research**][systems]  
-:shipit: Incoming VP @ [**CS Undergraduate Council**][csug]
+:shipit: Incoming VP @ [**CS Undergraduate Council**][csug]  
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: Founder @ [**Abyss Inc.**][abyss]  
 :shipit: Android @ [**Taperk**][taperk]  
@@ -22,6 +19,7 @@ Building [Abyss Inc.][abyss]
 :shipit: Open-source enthusiast year-round (3400+ contributions)
 
 [42tm]: https://github.com/42tm
+[abyss]: https://github.com/abyss-inc
 [csug]: https://ur-csug.org
 [ur]: https://rochester.edu
 [siggraph]: https://siggraph.org
@@ -43,7 +41,7 @@ Building [Abyss Inc.][abyss]
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Rust :crab:_  
+_Favorite programming language: Rust :crab:._  
 _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 :skateboard: skateboarding, :computer_mouse: interactive experiences._
 
@@ -55,8 +53,8 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 [![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
