@@ -1,6 +1,8 @@
 # Hi, I'm Zach :wave:
 
-Software engineer, digital media designer, and aspiring software entrepreneur.  
+Software engineering student and aspiring software entrepreneur with a focus on
+modular software and clean code. Interested in building fun, interactive, and
+beautiful experiences (front-end/graphics/games/VR/creative coding).  
 Building [Abyss Inc.][abyss]
 
 [abyss]: https://github.com/abyss-inc
@@ -9,20 +11,22 @@ Building [Abyss Inc.][abyss]
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
-:shipit: [**UR Systems Research**][systems] REU student  
-:shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
-:shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
-:shipit: [**Abyss Inc.**][abyss] founder  
-:shipit: [**RocLab**][roclab] full-stack engineer  
-:shipit: [**42tm**][42tm] founder & software engineer
+:shipit: CS @ [**University of Rochester**][ur]  
+:shipit: REU Fellow @ [**URCS Systems Research**][systems]  
+:shipit: Incoming VP @ [**CS Undergraduate Council**][csug]
+:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
+:shipit: Founder @ [**Abyss Inc.**][abyss]  
+:shipit: Android @ [**Taperk**][taperk]  
+:shipit: Full-stack @ [**RocLab**][roclab]  
+:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
+:shipit: Open-source enthusiast year-round (3400+ contributions)
 
+[42tm]: https://github.com/42tm
+[csug]: https://ur-csug.org
 [ur]: https://rochester.edu
 [siggraph]: https://siggraph.org
-[42tm]: https://github.com/42tm
 [systems]: https://www.cs.rochester.edu/dept/systems/
-[csug]: https://ur-csug.org
-[dandyhacks]: https://dandyhacks.net
+[taperk]: https://taperk.com
 [roclab]: https://roclab.io
 
 ## Skills
@@ -39,6 +43,7 @@ Building [Abyss Inc.][abyss]
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
+_Favorite programming language: Rust :crab:_  
 _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 :skateboard: skateboarding, :computer_mouse: interactive experiences._
 
@@ -61,18 +66,6 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
         <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
     </b>
 </p>
-
-### Interests
-
-Let's connect and talk about…
-
-algorithms, AR/VR, computer graphics, data structures, machine learning,
-parallel computing, programming languages, Rust, software design, web
-development,
-
-…or anything you'd like. （๑╹◡╹๑）
-
-GIF by Sand Castles Studio for their game Bread & Fred.
 
 ---
 
