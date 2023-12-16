@@ -1,7 +1,7 @@
 # Hi, I'm Zach :wave:
 
 Computer science student and aspiring software entrepreneur  
-interested in building fun, interactive, and beautiful experiences
+interested in building fun, interactive, and beautiful experiences  
 for the Web (graphics / games / VR / creative coding).
 
 Obsessed with performance and clean code.
@@ -76,7 +76,7 @@ breakdancing, and :skateboard: skateboarding._
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://https://twitter.com/zach_duong">
+<a href="https://twitter.com/zach_duong">
     <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
