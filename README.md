@@ -1,10 +1,10 @@
 # Hi, I'm Zach :wave:
 
-Software engineering student and aspiring software entrepreneur with  
-a focus on modular software and clean code.
+Computer science student and aspiring software entrepreneur  
+interested in building fun, interactive, and beautiful experiences
+for the Web (graphics / games / VR / creative coding).
 
-Interested in building fun, interactive, and beautiful experiences  
-(front-end/graphics/games/VR/creative coding).  
+Obsessed with performance and clean code.
 
 ## Life
 
@@ -12,7 +12,7 @@ Interested in building fun, interactive, and beautiful experiences
 
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: Android @ [**Taperk**][taperk]  
+:shipit: ex-Android @ [**Taperk**][taperk]  
 :shipit: Full-stack @ [**RocLab**][roclab]  
 :shipit: Founder @ [**Abyss Inc.**][abyss]  
 :shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
@@ -34,6 +34,7 @@ Interested in building fun, interactive, and beautiful experiences
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
@@ -41,21 +42,18 @@ Interested in building fun, interactive, and beautiful experiences
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 _Favorite programming language: Rust :crab:._  
-_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
-:skateboard: skateboarding, :computer_mouse: interactive experiences._
+_Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
+breakdancing, and :skateboard: skateboarding._
 
 ### Software
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
-[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 <p align="center">
@@ -76,6 +74,10 @@ _Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
 
 <a href="https://www.linkedin.com/in/zach-nguyen">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+<a href="https://https://twitter.com/zach_duong">
+    <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
 <a href="https://paypal.me/dnguy38">
