@@ -1,10 +1,7 @@
 # Hi, I'm Zach :wave:
 
-Computer science student and aspiring software entrepreneur
-interested in building fun, interactive, and beautiful experiences (graphics ◆
-games ◆ VR ◆ creative coding).
-
-Obsessed with performance and clean code.
+Graphics. Games. Creative coding. Endeavoring to help bring fun and beauty into
+software. Obsessed with performance and clean code craftsmanship.
 
 <table>
   <tbody>
@@ -67,31 +64,40 @@ Obsessed with performance and clean code.
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: ex-Android @ [**Taperk**][taperk]  
 :shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**Abyss Inc.**][abyss]  
 :shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-:shipit: Open-source enthusiast year-round (3400+ contributions)
 
-[42tm]: https://github.com/42tm
-[abyss]: https://github.com/abyss-inc
 [ur]: https://rochester.edu
 [siggraph]: https://siggraph.org
 [taperk]: https://taperk.com
 [roclab]: https://roclab.io
+[42tm]: https://github.com/42tm
 
 ## Skills
 
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+### Programming languages
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+
+### Graphics
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
+
+## Mobile
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+
+### Web
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 _Favorite programming language: Rust :crab:._  
@@ -110,9 +116,9 @@ breakdancing, and :skateboard: skateboarding._
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 <p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
-    </b>
+  <b>Looking for a software engineering intern?
+    <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+  </b>
 </p>
 
 ---
@@ -122,33 +128,33 @@ breakdancing, and :skateboard: skateboarding._
 </a>-->
 
 <a href="mailto:duongnguyen18@siggraph.org">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/zach-nguyen">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
 <a href="https://twitter.com/zach_duong">
-    <img height="32" align="left" alt="X" src="img/icons/x.png" />
+  <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
 <a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
 
 <a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+  <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
 </a>
 
 <a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
+  <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
 </a>
 
 <a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+  <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
 <a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+  <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
