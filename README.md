@@ -10,22 +10,22 @@ Obsessed with performance and clean code.
   <tbody>
     <tr>
       <td>
-        <img width="400" align="left" alt="Raydiance" src="img/projects/raydiance.png" />
+        <img align="left" alt="Raydiance" src="img/projects/raydiance.png" />
       </td>
       <td>
-        <img width="400" align="left" alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+        <img align="left" alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
       </td>
     </tr>
     <tr>
       <td>CUDA ray tracing</td>
-      <td>3D physics synthwave aesthetics driving simulator</td>
+      <td>3D synthwave aesthetics driving simulator</td>
     </tr>
     <tr>
       <td>
-        <img width="400" align="left" alt="lnagb.js" src="img/projects/lnagb.png" />
+        <img align="left" alt="lnagb.js" src="img/projects/lnagb.png" />
       </td>
       <td>
-        <img width="400" align="left" alt="Trailblazer" src="img/projects/trailblazer.png" />
+        <img align="left" alt="Trailblazer" src="img/projects/trailblazer.png" />
       </td>
     </tr>
     <tr>
@@ -34,26 +34,22 @@ Obsessed with performance and clean code.
     </tr>
     <tr>
       <td>
-        <img width="400" align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
+        <img align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
       </td>
       <td>
-        <img width="400" align="left" alt="Web design" src="img/projects/web design.jpg" />
+        <img align="left" alt="Design portfolio" src="img/projects/web design.jpg" />
       </td>
     </tr>
     <tr>
       <td>An Android music app based on Last.fm</td>
-      <td>Design</td>
+      <td>Design portfolio</td>
     </tr>
     <tr>
       <td>
-        <img width="400" alt="3D design" src="img/projects/3d design.jpg" />
-      </td>
-      <td>
-        <img width="400" align="left" alt="Three.js sketches" src="img/projects/threejs.jpg" />
+        <img align="left" alt="Three.js sketches" src="img/projects/threejs.jpg" />
       </td>
     </tr>
     <tr>
-      <td>3D design</td>
       <td>WebGL experiments</td>
     </tr>
   </tbody>
