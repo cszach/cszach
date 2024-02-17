@@ -6,9 +6,13 @@ for the Web (graphics ◆ games ◆ VR ◆ creative coding).
 
 Obsessed with performance and clean code.
 
-<img align="left" alt="Mail" src="img/projects/raydiance.png" />
-<img align="left" alt="Mail" src="img/projects/synthwave drive.png" />
-<img align="left" alt="Mail" src="img/projects/lnagb.png" />
+<img width="460" align="left" alt="Raydiance" src="img/projects/raydiance.png" />
+<img width="460" align="left" alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+<img width="460" align="left" alt="lnagb.js" src="img/projects/lnagb.png" />
+<img width="460" align="left" alt="Trailblazer" src="img/projects/trailblazer.png" />
+<img width="460" align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
+<img width="460" align="left" alt="Web design" src="img/projects/web design.jpg" />
+<img width="460" align="left" alt="3D design" src="img/projects/3d design.jpg" />
 
 ## Life
 
