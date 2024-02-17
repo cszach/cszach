@@ -10,10 +10,10 @@ Obsessed with performance and clean code.
   <tbody>
     <tr>
       <td>
-        <img align="left" alt="Raydiance" src="img/projects/raydiance.png" />
+        <img alt="Raydiance" src="img/projects/raydiance.png" />
       </td>
       <td>
-        <img align="left" alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+        <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
       </td>
     </tr>
     <tr>
@@ -22,10 +22,10 @@ Obsessed with performance and clean code.
     </tr>
     <tr>
       <td>
-        <img align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
+        <img alt="LastPlayed" src="img/projects/lastplayed.png" />
       </td>
       <td>
-        <img align="left" alt="Trailblazer" src="img/projects/trailblazer.png" />
+        <img alt="Trailblazer" src="img/projects/trailblazer.png" />
       </td>
     </tr>
     <tr>
@@ -34,10 +34,10 @@ Obsessed with performance and clean code.
     </tr>
     <tr>
       <td>
-        <img align="left" alt="Three.js sketches" src="img/projects/threejs.jpg" />
+        <img alt="Three.js sketches" src="img/projects/threejs.jpg" />
       </td>
       <td>
-        <img align="left" alt="Design portfolio" src="img/projects/web design.jpg" />
+        <img alt="Design portfolio" src="img/projects/web design.jpg" />
       </td>
     </tr>
     <tr>
