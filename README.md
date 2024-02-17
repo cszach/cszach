@@ -10,10 +10,14 @@ Obsessed with performance and clean code.
   <tbody>
     <tr>
       <td>
-        <img alt="Raydiance" src="img/projects/raydiance.png" />
+        <a target="_blank" href="https://github.com/cszach/Raydiance">
+          <img alt="Raydiance" src="img/projects/raydiance.png" />
+        </a>
       </td>
       <td>
-        <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+        <a target="_blank" href="https://cszach.github.io/synthwave-drive">
+          <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -22,10 +26,14 @@ Obsessed with performance and clean code.
     </tr>
     <tr>
       <td>
-        <img alt="LastPlayed" src="img/projects/lastplayed.png" />
+        <a target="_blank" href="https://github.com/cszach/LastPlayed">
+          <img alt="LastPlayed" src="img/projects/lastplayed.png" />
+        </a>
       </td>
       <td>
-        <img alt="Trailblazer" src="img/projects/trailblazer.png" />
+        <a target="_blank" href="https://github.com/cszach/Trailblazer">
+          <img alt="Trailblazer" src="img/projects/trailblazer.png" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -34,10 +42,14 @@ Obsessed with performance and clean code.
     </tr>
     <tr>
       <td>
-        <img alt="Three.js sketches" src="img/projects/threejs.jpg" />
+        <a target="_blank" href="https://cszach.github.io/three.js-sketches">
+          <img alt="Three.js sketches" src="img/projects/threejs.jpg" />
+        </a>
       </td>
       <td>
-        <img alt="Design portfolio" src="img/projects/web design.jpg" />
+        <a target="_blank" href="https://cszach.github.io/designs">
+          <img alt="Design portfolio" src="img/projects/web design.jpg" />
+        </a>
       </td>
     </tr>
     <tr>
