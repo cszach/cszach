@@ -58,7 +58,7 @@ software. Obsessed with performance and clean code craftsmanship.
 
 ## Life
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+<img align="right" alt="Bred the penguin chillin' by the fire." height="150" src="img/Fire.gif" />
 
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
 :shipit: Vice President @ [**Computer Science Undergraduate Council**][csug]  
@@ -106,7 +106,6 @@ Software:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 _Favorite programming language: Rust :crab:._  
 _Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
