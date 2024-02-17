@@ -12,7 +12,7 @@ Obsessed with performance and clean code.
 <img width="460" align="left" alt="Trailblazer" src="img/projects/trailblazer.png" />
 <img width="460" align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
 <img width="460" align="left" alt="Web design" src="img/projects/web design.jpg" />
-<img width="460" align="left" alt="3D design" src="img/projects/3d design.jpg" />
+<img width="460" alt="3D design" src="img/projects/3d design.jpg" />
 
 ## Life
 
