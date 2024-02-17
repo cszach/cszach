@@ -22,35 +22,27 @@ Obsessed with performance and clean code.
     </tr>
     <tr>
       <td>
-        <img align="left" alt="lnagb.js" src="img/projects/lnagb.png" />
+        <img align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
       </td>
       <td>
         <img align="left" alt="Trailblazer" src="img/projects/trailblazer.png" />
       </td>
     </tr>
     <tr>
-      <td>Linear algebra ES6 library</td>
+      <td>Last.fm Android music app</td>
       <td>Interactive map viewer and pathfinder</td>
     </tr>
     <tr>
       <td>
-        <img align="left" alt="LastPlayed" src="img/projects/lastplayed.png" />
+        <img align="left" alt="Three.js sketches" src="img/projects/threejs.jpg" />
       </td>
       <td>
         <img align="left" alt="Design portfolio" src="img/projects/web design.jpg" />
       </td>
     </tr>
     <tr>
-      <td>An Android music app based on Last.fm</td>
-      <td>Design portfolio</td>
-    </tr>
-    <tr>
-      <td>
-        <img align="left" alt="Three.js sketches" src="img/projects/threejs.jpg" />
-      </td>
-    </tr>
-    <tr>
       <td>WebGL experiments</td>
+      <td>Design portfolio</td>
     </tr>
   </tbody>
 </table>
