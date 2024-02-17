@@ -61,12 +61,14 @@ software. Obsessed with performance and clean code craftsmanship.
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 :shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
+:shipit: Vice President @ [**Computer Science Undergraduate Council**][csug]  
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: ex-Android @ [**Taperk**][taperk]  
 :shipit: Full-stack @ [**RocLab**][roclab]  
 :shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
 
 [ur]: https://rochester.edu
+[csug]: https://ur-csug.org
 [siggraph]: https://siggraph.org
 [taperk]: https://taperk.com
 [roclab]: https://roclab.io
@@ -103,7 +105,7 @@ Software:
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 
 _Favorite programming language: Rust :crab:._  
