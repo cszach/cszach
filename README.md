@@ -6,6 +6,10 @@ for the Web (graphics ◆ games ◆ VR ◆ creative coding).
 
 Obsessed with performance and clean code.
 
+<img align="left" alt="Mail" src="img/projects/raydiance.png" />
+<img align="left" alt="Mail" src="img/projects/synthwave drive.png" />
+<img align="left" alt="Mail" src="img/projects/lnagb.png" />
+
 ## Life
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
