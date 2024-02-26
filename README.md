@@ -1,7 +1,7 @@
 # Hi, I'm Zach :wave:
 
-Graphics. Games. Creative coding. Endeavoring to help bring fun and beauty into
-software. Obsessed with performance and clean code craftsmanship.
+Making computer graphics fun and beautiful because immersive technology is the
+future Experience Machine.
 
 <table>
   <tbody>
@@ -56,11 +56,11 @@ software. Obsessed with performance and clean code craftsmanship.
   </tbody>
 </table>
 
-## Life
+## Quick résumé
 
 <img align="right" alt="Bred the penguin chillin' by the fire." height="150" src="img/Fire.gif" />
 
-:shipit: CS + REU Fellow @ [**University of Rochester**][ur]  
+:shipit: CS + Systems Research Fellow @ [**University of Rochester**][ur]  
 :shipit: Vice President @ [**Computer Science Undergraduate Council**][csug]  
 :shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
 :shipit: ex-Android @ [**Taperk**][taperk]  
@@ -112,8 +112,9 @@ Software:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 _Favorite programming language: Rust :crab:._  
-_Fun tidbits: My side interests are :paintbrush: graphics design, :man_dancing:
-breakdancing, and :skateboard: skateboarding._
+_Learning: WebAssembly._  
+_Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
+:man_dancing:, and skateboarding :skateboard:._
 
 <p align="center">
   <b>Looking for a software engineering intern?
