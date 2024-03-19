@@ -81,10 +81,12 @@ Programming languages:
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge)
 
-Graphics:
+Graphics/GPU:
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
@@ -96,7 +98,6 @@ Mobile:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 
 Web:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
