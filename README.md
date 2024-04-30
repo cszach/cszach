@@ -1,7 +1,7 @@
 # Hi, I'm Zach :wave:
 
-Making computer graphics fun and beautiful because immersive technology is the
-future Experience Machine.
+I'm a technologist working on realistic computer graphics for everyone. Always
+learning. 🤟🏻
 
 <table>
   <tbody>
@@ -56,24 +56,6 @@ future Experience Machine.
   </tbody>
 </table>
 
-## Quick résumé
-
-<img align="right" alt="Bred the penguin chillin' by the fire." height="150" src="img/Fire.gif" />
-
-:shipit: CS + Research Fellow @ [**University of Rochester**][ur]  
-:shipit: Vice President @ [**Computer Science Undergraduate Council**][csug]  
-:shipit: Student Member @ [**ACM SIGGRAPH**][siggraph]  
-:shipit: ex-Android @ [**Taperk**][taperk]  
-:shipit: Full-stack @ [**RocLab**][roclab]  
-:shipit: Founder @ [**42tm**][42tm] (2020 regional top 5 GitHub org.)  
-
-[ur]: https://rochester.edu
-[csug]: https://ur-csug.org
-[siggraph]: https://siggraph.org
-[taperk]: https://taperk.com
-[roclab]: https://roclab.io
-[42tm]: https://github.com/42tm
-
 ## Skills
 
 Programming languages:
@@ -115,21 +97,11 @@ Software:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 _Favorite programming language: Rust :crab:._  
-_Learning: WebAssembly._  
+_Learning: WebGPU._  
 _Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
 :man_dancing:, and skateboarding :skateboard:._
 
-<p align="center">
-  <b>Looking for a software engineering intern?
-    <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
-  </b>
-</p>
-
 ---
-
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
 
 <a href="mailto:duongnguyen18@siggraph.org">
   <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
