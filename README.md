@@ -1,7 +1,7 @@
 # Hi, I'm Zach :wave:
 
-I'm a technologist working on realistic computer graphics for everyone. Always
-learning. 🤟🏻
+I'm a technologist working on realistic immersive computer graphics for
+everyone. Always learning. 🤟🏻
 
 <table>
   <tbody>
