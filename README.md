@@ -7,40 +7,38 @@ everyone. Always learning. 🤟🏻
   <tbody>
     <tr>
       <td>
+        <img alt="Eclipse" src="img/projects/eclipse.jpg" />
+      </td>
+      <td>
         <a target="_blank" href="https://github.com/cszach/Raydiance">
-          <img alt="Raydiance" src="img/projects/raydiance.png" />
+          <img alt="Raydiance" src="img/projects/raydiance.jpg" />
         </a>
       </td>
+    </tr>
+    <tr>
+      <td>WebGPU rendering engine</td>
+      <td>CUDA ray tracing</td>
+    </tr>
+    <tr>
       <td>
         <a target="_blank" href="https://cszach.github.io/synthwave-drive">
-          <img alt="Synthwave Drive" src="img/projects/synthwave drive.png" />
+          <img alt="Synthwave Drive" src="img/projects/synthwave drive.jpg" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td>CUDA ray tracing</td>
-      <td>3D synthwave aesthetics driving simulator</td>
-    </tr>
-    <tr>
       <td>
         <a target="_blank" href="https://github.com/cszach/LastPlayed">
-          <img alt="LastPlayed" src="img/projects/lastplayed.png" />
+          <img alt="LastPlayed" src="img/projects/lastplayed.jpg" />
         </a>
       </td>
+    </tr>
+    <tr>
+      <td>3D synthwave aesthetics driving simulator</td>
+      <td>Last.fm Android music app</td>
+    </tr>
+    <tr>
       <td>
         <a target="_blank" href="https://github.com/cszach/Trailblazer">
-          <img alt="Trailblazer" src="img/projects/trailblazer.png" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Last.fm Android music app</td>
-      <td>Interactive map viewer and pathfinder</td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" href="https://cszach.github.io/three.js-sketches">
-          <img alt="Three.js sketches" src="img/projects/threejs.jpg" />
+          <img alt="Trailblazer" src="img/projects/trailblazer.jpg" />
         </a>
       </td>
       <td>
@@ -50,7 +48,7 @@ everyone. Always learning. 🤟🏻
       </td>
     </tr>
     <tr>
-      <td>WebGL experiments</td>
+      <td>Interactive map viewer and pathfinder</td>
       <td>Design portfolio</td>
     </tr>
   </tbody>
