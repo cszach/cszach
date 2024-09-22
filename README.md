@@ -26,30 +26,30 @@ everyone. Always learning. 🤟🏻
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/cszach/LastPlayed">
-          <img alt="LastPlayed" src="img/projects/lastplayed.jpg" />
+        <a target="_blank" href="https://github.com/cszach/t">
+          <img alt="t" src="img/projects/teapot.gif" />
         </a>
       </td>
     </tr>
     <tr>
       <td>3D synthwave aesthetics driving simulator</td>
-      <td>Last.fm Android music app</td>
+      <td>C++ software graphics library for the terminal</td>
     </tr>
     <tr>
+      <td>
+        <a target="_blank" href="https://github.com/cszach/LastPlayed">
+          <img alt="LastPlayed" src="img/projects/lastplayed.jpg" />
+        </a>
+      </td>
       <td>
         <a target="_blank" href="https://github.com/cszach/Trailblazer">
           <img alt="Trailblazer" src="img/projects/trailblazer.jpg" />
         </a>
       </td>
-      <td>
-        <a target="_blank" href="https://cszach.github.io/designs">
-          <img alt="Design portfolio" src="img/projects/web design.jpg" />
-        </a>
-      </td>
     </tr>
     <tr>
+      <td>Last.fm Android music app</td>
       <td>Interactive map viewer and pathfinder</td>
-      <td>Design portfolio</td>
     </tr>
   </tbody>
 </table>
