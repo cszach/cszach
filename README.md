@@ -3,60 +3,11 @@
 Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
 Always learning. 🤟🏻
 
-[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.png)](https://zachnguyen.com)
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img alt="Eclipse" src="img/projects/eclipse.jpg" />
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/cszach/Raydiance">
-          <img alt="Raydiance" src="img/projects/raydiance.jpg" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>WebGPU rendering engine</td>
-      <td>CUDA ray tracing</td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" href="https://cszach.github.io/synthwave-drive">
-          <img alt="Synthwave Drive" src="img/projects/synthwave drive.jpg" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/cszach/t">
-          <img alt="t" src="img/projects/teapot.gif" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>3D synthwave aesthetics driving simulator</td>
-      <td>C++ software graphics library for the terminal</td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" href="https://github.com/cszach/LastPlayed">
-          <img alt="LastPlayed" src="img/projects/lastplayed.jpg" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/cszach/Trailblazer">
-          <img alt="Trailblazer" src="img/projects/trailblazer.jpg" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Last.fm Android music app</td>
-      <td>Interactive map viewer and pathfinder</td>
-    </tr>
-  </tbody>
-</table>
+[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.webp)](https://zachnguyen.com)
 
 ## 🌈 Skills
+
+<img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/projects/teapot.gif" />
 
 ### Programming languages
 
@@ -80,7 +31,6 @@ Always learning. 🤟🏻
 
 ### Mobile app dev
 
-Mobile:
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
