@@ -7,7 +7,7 @@ Always learning. 🤟🏻
 
 ## 🌈 Skills
 
-<img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/projects/teapot.gif" />
+<a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." width="480" align="right" src="img/projects/teapot.gif" /></a>
 
 ### Programming languages
 
