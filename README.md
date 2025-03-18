@@ -1,6 +1,9 @@
 # Hi, I'm Zach :wave:
 
-Multidisciplinary builder. The Web is an amazing platform. Always learning. 🤟🏻
+Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
+Always learning. 🤟🏻
+
+[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.png)](https://zachnguyen.com)
 
 <table>
   <tbody>
@@ -53,9 +56,10 @@ Multidisciplinary builder. The Web is an amazing platform. Always learning. 🤟
   </tbody>
 </table>
 
-## Skills
+## 🌈 Skills
 
-Programming languages:
+### Programming languages
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -66,19 +70,23 @@ Programming languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white&style=for-the-badge)
 
-Graphics/GPU:
+### Graphics
+
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 ![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?logo=webgpu&logoColor=white&style=for-the-badge)
 
+### Mobile app dev
+
 Mobile:
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
 
-Web:
+### Web dev
+
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge)
 ![daisyUI](https://img.shields.io/badge/daisyUI-1AD1A5?logo=daisyui&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
@@ -87,7 +95,8 @@ Web:
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-Software:
+### Software
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
@@ -95,16 +104,13 @@ Software:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
-_Favorite programming language: Rust :crab:._  
-_Learning: WebGPU._  
-_Fun tidbits: My side interests are graphics design :paintbrush:, breakdancing
-:man_dancing:, and skateboarding :skateboard:._
+## ✨ Other things
+
+- Favorite programming language: Rust. :crab:
+- Favorite technology: WebGPU.
+- Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
 
 ---
-
-<a href="mailto:duongnguyen18@siggraph.org">
-  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
 
 <a href="https://www.linkedin.com/in/zach-nguyen">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
